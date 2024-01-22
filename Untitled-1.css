@@ -1,0 +1,13 @@
+.center-box p:hover {
+    color: #4f9f4f !important;
+}
+
+.center-box {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.center-box p {
+    transition: color 0.3s ease;
+    color: #000;
+    margin-bottom: 8px;
+}
